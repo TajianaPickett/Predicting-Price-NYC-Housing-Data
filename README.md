@@ -1,4 +1,4 @@
-# 🏙️ NYC Housing Price Prediction (Machine Learning)
+# NYC Housing Price Prediction (Machine Learning)
 
 A Python project that predicts residential housing prices in New York City using supervised machine learning.  
 This project applies data analysis and regression models to understand how location, property characteristics, and housing type influence price.
